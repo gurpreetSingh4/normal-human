@@ -1,6 +1,4 @@
-![Full Stack Chat PDF Clone](https://github.com/user-attachments/assets/03580ec6-99f0-4f3e-8a0d-141e15d2e17b)
 
-[Link to YouTube Tutorial]([https://www.youtube.com/watch?v=bZFedu-0emE](https://youtu.be/Qm7-7PnszM4))
 
 # Overview
 
@@ -37,7 +35,7 @@ Follow the steps below to install and setup the project:
    Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/Elliott-Chong/normalhuman.git
+   git clone https://github.com/gurpreetSingh4/normal-human.git
    ```
 
 2. **Navigate to the project directory**
